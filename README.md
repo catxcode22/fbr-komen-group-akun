@@ -11,7 +11,7 @@ Bot ini adalah solusi untuk me-report postingan berbau seks yang bikin risih di 
 Clone repository ini:
 
 ```bash
-git clone https://github.com/codex22/fb-auto-report-group-account.git
+git clone https://github.com/codex22/fbr-komen-group-akun.git
 ```
 
 Lakukan cd ke root folder repo yang telah di clone, jalankan:
